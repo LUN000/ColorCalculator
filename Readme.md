@@ -28,3 +28,6 @@ Mode
 3. sRGB to Lab
 
 ** not finish with embedding a, c, e white point.
+
+## Explaination Blog Post
+https://medium.com/@lun_0000/color-difference-calculation-in-iq-analyzer-imatest-15d027d7d1fa
