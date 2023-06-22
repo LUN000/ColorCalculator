@@ -2,7 +2,7 @@
 Simple Color related function package demo with pyside6
 ## ΔE ΔC Calculator
 
-Mode: 
+Mode
 
 1. ΔE 1994
 2. ΔE 1976
@@ -22,7 +22,7 @@ Industry: graphic arts, textiles
 
 ![image](https://github.com/LUN000/ColorCalculator/assets/71457201/a5dc536d-7e9b-419c-b20a-6bd7ebe84e12)
 
-Support 
+Mode 
 1. sRGB to xyz (d50, d65, ICC v4, ICC v2)
 2. xyz to Lab (reference white point: a, c, e, d50, d55, d65)
 3. sRGB to Lab
